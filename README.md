@@ -27,3 +27,6 @@ Besides, to use the existing "Data" directory successfully, do not forget to mod
 "baseDir" to its absolute path of "Data" in the source file "CoColour/Source/Utils/util.h" [line 16]
 
 So far, you can run the procedure and see the color correction results now.
+
+About Datasets: 
+There is some unclear problem in uploading datasets ZY-3 and UAV. If necessary, please contact us by email to get them.
