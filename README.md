@@ -1,7 +1,6 @@
 ## DESCRIPTION **************************************
 This C++ implemented algorithm is described in  
 "Color Consistency Correction Based on Remapping Optimization for Image Stitching", ICCV Workshop 2017
-"Gradient-Preserving Color Consistency Optimization for Image Stitching", submited to IEEE Transactions on Image Processing.
 
 Notice: This program is free for personal, non-profit and academic use.
 All right reserved to CVRS: http://cvrs.whu.edu.cn/
