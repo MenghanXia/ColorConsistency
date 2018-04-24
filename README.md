@@ -5,9 +5,6 @@ quality of individual image meanwhile. we parameterize the color remapping curve
 and express the constraints of color consistency, contrast and gradient in an uniform energy function. It 
 can be formulated as a convex quadratic programming problem which provides the global optimal solution efficiently.
 
-Here is an example for demonstration below: 
-<img src="Docs/demo.png" width="900px"/>
-
 This C++ implemented algorithm is described in  
 "Color Consistency Correction Based on Remapping Optimization for Image Stitching", ICCV Workshop 2017.
 
@@ -15,6 +12,12 @@ Notice: This program is free for personal, non-profit and academic use.
 All right reserved to CVRS: http://cvrs.whu.edu.cn/
 
 If you have any question, please contact: menghanxyz@gmail.com (Menghan Xia)
+
+Here is an example for demonstration below: 
+
+<img src="Docs/demo.png" width="900px"/>
+
+
 
 ## Usage
 ### 1 Dependent Libarary [compulsory]:
