@@ -27,7 +27,7 @@ Besides, to use the existing "Data" directory successfully, do not forget to mod
 
 So far, you can run the procedure and see the color correction results now. Here is an example.
 
-<img src="Docs/orig.png" width="450px"/>	<img src="Docs/ours.png" width="450px"/>
+<img src="Docs/demo.png" width="900px"/>
 
 ### About Datasets [LUNCHROOM, CAMPUS, ZY-3, UAV]: 
 There is some unclear problem in uploading datasets ZY-3 and UAV. If necessary, please contact us by email to get them.
