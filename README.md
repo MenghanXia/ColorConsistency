@@ -25,7 +25,9 @@ There will be a "Data" folder in the decompressing files, where three created fo
 Besides, to use the existing "Data" directory successfully, do not forget to modify the path variable 
 "baseDir" to its absolute path of "Data" in the source file "CoColour/Source/Utils/util.h" [line 16]
 
-So far, you can run the procedure and see the color correction results now.
+So far, you can run the procedure and see the color correction results now. Here is an example.
+
+<img src="Docs/orig.png" width="450px"/>	<img src="Docs/ours.png" width="450px"/>
 
 ### About Datasets [LUNCHROOM, CAMPUS, ZY-3, UAV]: 
 There is some unclear problem in uploading datasets ZY-3 and UAV. If necessary, please contact us by email to get them.
