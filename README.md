@@ -6,29 +6,29 @@ and express the constraints of color consistency, contrast and gradient in an un
 can be formulated as a convex quadratic programming problem which provides the global optimal solution efficiently.
 
 This C++ implemented algorithm is described in  
+"A Closed-Form Solution for Multi-View Color Correction with Gradient Preservation", submitted to TIP 2018.
 "Color Consistency Correction Based on Remapping Optimization for Image Stitching", ICCV Workshop 2017.
 
 Notice: This program is free for personal, non-profit and academic use.
-All right reserved to CVRS: http://cvrs.whu.edu.cn/
 
 If you have any question, please contact: menghanxyz@gmail.com (Menghan Xia)
 
 Here is an example for demonstration below: 
 
-<img src="Docs/demo.png" width="900px"/>
+<img src="docs/demo.png" width="900px"/>
 
 
 
 ## Usage
-### 1 Dependent Libarary [compulsory]:
+### 1. Dependent Libarary [compulsory]:
 OpenCV 2.4.9 is recommended.
 
-### 2 Project Configure:
+### 2. Project Configure:
 This procedure is developed on Visual Studio 2010 under windows8.1 system environment,
 where the source code is organized with CMakeLists. So, before opening it in Visual Studio,
 you need to configure the project with the software named CMake.
 
-### 3 Running and Test:
+### 3. Running and Test:
 There will be a "Data" folder in the decompressing files, where three created folders exist:
 "Cache"  : creat a text file that describes the adjacent relationships of each image. [example contained]
 "Images" : input your source images that are aligned geometrically. [example contained]
