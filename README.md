@@ -13,8 +13,7 @@ This program is free for personal, non-profit and academic use. If you have any 
 
 Below is demonstrated an example: 
 
-<img src="docs/demo_show.jpg" width="900px"/>
-
+<img src="Docs/demo_show.jpg" width="900px"/>
 
 
 ## Usage
