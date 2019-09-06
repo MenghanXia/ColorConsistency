@@ -24,12 +24,12 @@ where the source code is organized with CMakeLists. So, before opening it in Vis
 you need to configure the project with the software named *CMake*.
 
 ### 3. Running and Test:
-There will be a "Data" folder in the decompressing files, where three created folders exist:  
+There will be a "*Data*" folder in the decompressing files, where three created folders exist:  
 - "*Cache*"  : creat a text file that describes the adjacent relationships of each image. [example contained]
 - "*Images*" : input your source images that are aligned geometrically. [example contained]
 - "*Results*": procedure will output the processed results in this position. [creat it by yourself]
 
 Besides, to use the existing "*Data*" directory successfully, do not forget to UPDATE the path variable 
-'*baseDir*' as **the absolute path** of your working directory "*Data*" in the source file "*CoColour/Source/Utils/util.h*" [line 16]
+'*baseDir*' as **the absolute path** of your directory "*Data*" in the source file "*CoColour/Source/Utils/util.h*" [line 16]
 
 So far, you can run the procedure and see the color correction results now. 
