@@ -6,8 +6,8 @@ and express the constraints of color consistency, contrast and gradient in an un
 can be formulated as a convex quadratic programming problem which provides the global optimal solution efficiently.
 
 This C++ implemented algorithm is described in:  
-"[Color Consistency Correction Based on Remapping Optimization for Image Stitching](http://menghanxia.github.io/papers/Color_Consistency_Remapping-ICCVW2017.pdf)", ICCV Workshop 2017.  
-"[A Closed-Form Solution for Multi-View Color Correction with Gradient Preservation](http://menghanxia.github.io/2019_Color_Consistency_Optimization_isprs_journal.pdf)", ISPRS Journal 2019 (Extended version).  
+"[Color Consistency Correction Based on Remapping Optimization for Image Stitching](http://menghanxia.github.io/papers/2017_Color_Remapping_Optimization_iccvw.pdf)", ICCV Workshop 2017.  
+"[A Closed-Form Solution for Multi-View Color Correction with Gradient Preservation](http://menghanxia.github.io/papers/2019_Color_Consistency_Optimization_isprs_journal.pdf)", ISPRS Journal 2019 (Extended version).  
 This program is free for personal, non-profit and academic use. If you have any question, please contact: menghanxyz@gmail.com (Menghan Xia)
 
 Here is an example for demonstration below:
