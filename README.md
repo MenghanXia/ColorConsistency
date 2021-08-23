@@ -33,3 +33,14 @@ Besides, to use the existing "*Data*" directory successfully, do not forget to U
 '*baseDir*' as **the absolute path** of your directory "*Data*" in the source file "*CoColour/Source/Utils/util.h*" [line 16]
 
 So far, you can run the procedure and see the color correction results now. 
+
+## Citation
+If any part of our paper and code is helpful to your work, please generously cite with:
+```
+@inproceedings{XiaYXZX17,
+  author    = {Menghan Xia and Jian Yao and Renping Xie and Mi Zhang and Jinsheng Xiao},
+  title     = {Color Consistency Correction Based on Remapping Optimization for Image Stitching},
+  booktitle = {{IEEE} International Conference on Computer Vision Workshops (ICCVW)},
+  year      = {2017}
+}
+```
