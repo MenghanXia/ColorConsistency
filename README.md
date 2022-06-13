@@ -24,7 +24,7 @@ where the source code is organized with CMakeLists. So, before opening it in Vis
 you need to configure the project with the software named *CMake*.
 
 ### 3. Running and Test:
-There will be a "*Data*" folder in the decompressing files, where three created folders exist:  
+There will be a "*Data*" folder in the decompressed files, where three created folders exist:  
 - "*Cache*"  : creat a text file that describes the adjacent relationships of each image. [example contained]
 - "*Images*" : input your source images that are aligned geometrically. [example contained]
 - "*Results*": procedure will output the processed results in this position. [creat it by yourself]
