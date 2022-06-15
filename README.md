@@ -26,7 +26,7 @@ you need to configure the project with the software named *CMake*.
 ### 3. Running and Test:
 There will be a "*Data*" folder in the decompressed files, where three created folders exist:  
 - "*Cache*"  : creat a text file that describes the adjacent relationships of each image. [example contained]
-- "*Images*" : input your source images that are aligned geometrically. [example contained]
+- "*Images*" : input your source images that were aligned via image stitching algorithms (e.g., [PanoramaStudio](https://www.tshsoft.com/en/download_en) or [AutoStiching](https://github.com/MenghanXia/AutoStitching)). [example contained]
 - "*Results*": procedure will output the processed results in this position. [creat it by yourself]
 
 Besides, to use the existing "*Data*" directory successfully, do not forget to UPDATE the path variable 
