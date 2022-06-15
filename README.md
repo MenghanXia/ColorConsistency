@@ -19,7 +19,7 @@ Here is an example for demonstration below:
 OpenCV 2.4.9 is recommended.
 
 ### 2. Project Configure:
-This procedure is developed on *Visual Studio 2010* under *Windows8.1* system environment,
+This procedure is developed on *Visual Studio 2010* under *Windows 8.1* system,
 where the source code is organized with CMakeLists. So, before opening it in Visual Studio,
 you need to configure the project with the software named *CMake*.
 
