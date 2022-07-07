@@ -30,7 +30,7 @@ There will be a "*Data*" folder in the decompressed files, where three created f
 - "*Results*": automatically save the processed results. <creat it by yourself>
 
 Besides, to use the existing "*Data*" directory successfully, do not forget to UPDATE the path variable 
-'*baseDir*' as **the absolute path** of your directory "*Data*" in the source file [CoColour/Source/Utils/util.h](CoColour/Source/Utils/util.h) [line 16]
+'*baseDir*' as **the absolute path** of your directory "*Data*" in the source file [CoColour/Source/Utils/util.h](./CoColour/Source/Utils/util.h) [line 16]
 
 So far, you can run the procedure and see the color correction results now. 
 
