@@ -27,10 +27,10 @@ you need to configure the project with the software named *CMake*.
 There will be a "*Data*" folder in the decompressed files, where three created folders exist:  
 - "*Cache*"  : creat a text file that describes the adjacent relationships of each image. <[example contained](./Data/Cache)>
 - "*Images*" : input your source images that were aligned via image stitching algorithms (e.g., [PanoramaStudio](https://www.tshsoft.com/en/download_en) or [AutoStitching](https://github.com/MenghanXia/AutoStitching)). <[example contained](./Data/Images)>
-- "*Results*": procedure will output the processed results in this position. <creat it by yourself>
+- "*Results*": automatically save the processed results. <creat it by yourself>
 
 Besides, to use the existing "*Data*" directory successfully, do not forget to UPDATE the path variable 
-'*baseDir*' as **the absolute path** of your directory "*Data*" in the source file "[util.h](CoColour/Source/Utils/util.h)*" [line 16]
+'*baseDir*' as **the absolute path** of your directory "*Data*" in the source file [CoColour/Source/Utils/util.h](CoColour/Source/Utils/util.h) [line 16]
 
 So far, you can run the procedure and see the color correction results now. 
 
